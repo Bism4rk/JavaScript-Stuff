@@ -1,4 +1,4 @@
 # JavaScript-Stuff
  javascript stuff!!!
 
-start from video 20 2morrow
+start from video 28 2morrow
